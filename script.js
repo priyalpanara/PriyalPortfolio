@@ -111,7 +111,7 @@ function callbackFunc() {
           window.open("https://wa.me/9106688575", "_blank");
           break;
         case "LinkedIn":
-          window.open("www.linkedin.com/in/priyal-panara-363247268", "_blank");
+          window.open("www.linkedin.com/in/priyal-panara", "_blank");
           break;
         case "GitHub":
           window.open("https://github.com/priyalpanara", "_blank");
